@@ -1,0 +1,1 @@
+php aritsan backup:database
